@@ -1,0 +1,20 @@
+.custom-counter {
+  width: 10rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  border: solid 1px #262626;
+  border-radius: 4px;
+}
+.counter {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 400;
+}
+mat-icon {
+  cursor: pointer;
+  height: 2rem;
+  width: 2rem;
+  font-size: 2rem;
+}
